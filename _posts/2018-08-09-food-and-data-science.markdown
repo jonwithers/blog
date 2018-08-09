@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Food and Data Science
-
+excerpt: What do food and data science have in common? Lots, probably!
 ---
 
 ## Cooking
