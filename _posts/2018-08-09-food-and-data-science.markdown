@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Food and Data Science
-permalink: /portfolio/food-and-data-science/
+
 ---
 
 ## Cooking
