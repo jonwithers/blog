@@ -1,9 +1,10 @@
 ---
 layout: single
 title: Food and Data Science
-excerpt: What do food and data science have in common? Lots, probably!
-permalink: blog/food-and-data-science
+permalink: blog/food-and-data-science/
 ---
+## Testing header
+What do cooking and data science have in common? Lots, probably! One thing for sure is that both reward patience.
 
 ## Cooking
 I love to cook. As a millenial (former) academic, cooking has been a great hobby to cultivate because:
