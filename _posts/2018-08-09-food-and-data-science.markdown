@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Food and Data Science
-permalink: /blog/food-and-data-science/
 ---
 ## Testing header
 What do cooking and data science have in common? Lots, probably! One thing for sure is that both reward patience.
